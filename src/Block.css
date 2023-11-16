@@ -1,0 +1,8 @@
+.group {
+    width: 600px;
+    height: 600px;
+    border: 1px solid black;
+    display: grid;
+    grid-template-columns: repeat(5, 120px);
+    grid-template-rows: repeat(5, 120px);
+}
